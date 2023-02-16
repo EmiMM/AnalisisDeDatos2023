@@ -1,4 +1,4 @@
-# AnalisisDeDatos2023
+# Analisis De Datos 2023-I
 
 Repositorio creado para la materia de Análisis de Datos (Enero-Junio 2023)
 
